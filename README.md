@@ -195,14 +195,32 @@ Kesimpulan
 Karena T value berada di antara t_tabel, maka Hipotesis Awal (H0), yaitu "Rata-rata saham di bandung sama dengan rata - rata saham di Bali" diterima  
 
 ## SOAL 4
+**Soal**
 Seorang Peneliti sedang meneliti spesies dari kucing di ITS . Dalam penelitiannya ia mengumpulkan data tiga spesies kucing yaitu kucing oren, kucing hitam dan
 kucing putih dengan panjangnya masing-masing.
 Jika :
 diketahui dataset https://intip.in/datasetprobstat1
 H0 : Tidak ada perbedaan panjang antara ketiga spesies atau rata-rata panjangnya sama
 
-<br>
 a) Plot 3 subjek grup
+<br>![4_plotgrup1](https://user-images.githubusercontent.com/99122278/170871024-176f8dda-e00b-4a7d-b884-2c656d3f5eeb.png) </br> Grup 1
+<br>![4_plotgrup2](https://user-images.githubusercontent.com/99122278/170871022-23ee72c8-faac-4d1e-b6ec-de0f4aef87a0.png) </br> Grup 2
+<br>![4_plotgrup3](https://user-images.githubusercontent.com/99122278/170871018-d0eefa5f-430d-4634-b80e-4afef20c4b87.png) </br> Grup 3
+
+poin b hingga e:
+<br>![4_bcde](https://user-images.githubusercontent.com/99122278/170871139-7f6ded22-e17f-4dda-84ae-9de888e7af26.png)</br>
+sehingga dapat disimpulkan hasil dari test post-hoc model 1 adalah grup 1 lebih panjang dari grup yang lain
+
+## Nomor 5
+**Soal**
+a) Plot sederhana
+<br> ![5_plot](https://user-images.githubusercontent.com/99122278/170871178-8af95a2e-b18a-462c-9a7d-16b3dce1276a.png) </br>
+b) Uji Anova dua arah dan c) Tabel dengan mean dan standar deviasi cahaya
+<br> ![5_bc](https://user-images.githubusercontent.com/99122278/170871265-16049286-6c09-44aa-9e7e-78ce36e651ea.png) </br>
+d) Uji Tukey
+<br> ![5d](https://user-images.githubusercontent.com/99122278/170871293-bbc129dd-1aa8-45af-adff-700a6d94bfd9.png) </br>
+e) Compact Letter Display
+<br> ![5_e](https://user-images.githubusercontent.com/99122278/170871321-a01e3ea7-70a8-4d24-a58a-14c39610a8ef.png) </br>
 
 
 
